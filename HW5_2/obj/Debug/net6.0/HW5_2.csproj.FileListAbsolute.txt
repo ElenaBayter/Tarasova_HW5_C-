@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\bin\Debug\net6.0\HW5_2.exe
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\bin\Debug\net6.0\HW5_2.deps.json
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\bin\Debug\net6.0\HW5_2.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\bin\Debug\net6.0\HW5_2.dll
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\bin\Debug\net6.0\HW5_2.pdb
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.dll
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\refint\HW5_2.dll
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.pdb
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\HW5_2.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\HW5\HW5_2\obj\Debug\net6.0\ref\HW5_2.dll
